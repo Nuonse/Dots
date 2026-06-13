@@ -2,6 +2,8 @@
 
 ![showcase2](images/Showcase2.png)
 
-Wallpaper link (not mine) -> https://wallhaven.cc/w/oxry69
+Wallpaper links 
+https://wallhaven.cc/w/oxry69
+https://wallhaven.cc/w/8g5872
 
 Neovim appearance from https://github.com/Theuuskj/KDE-rice-dots
