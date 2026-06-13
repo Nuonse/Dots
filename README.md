@@ -1,4 +1,4 @@
-![forest](images/Screenshot_20260612_172311.png)
+![showcase](images/Showcase.png)
 
 Wallpaper link (not mine) -> https://wallhaven.cc/w/oxry69
 
